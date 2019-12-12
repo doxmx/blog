@@ -1,25 +1,7 @@
-baseURL = "https://doxmx.org/"
-languageCode = "en-us"
-title = "DOxMX"
-theme = "beautifulhugo"
-
-[Author]
-    name = "DOxMX"
-    website = "https://doxmx.org/"
-
-
-[Params]
-    rss = true
-    wordCount = true
-    socialShare = true
-    showRelatedPosts = true
-
-[[menu.main]]
-    name = "About"
-    url = "about/"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+# Academic Website Builder
+# https://sourcethemes.com/academic/
+#
+# The presence of this file is for compatibility with Blogdown and Forestry.
+# If you are not using those tools, this file may be deleted.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
